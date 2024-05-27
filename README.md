@@ -17,7 +17,6 @@ Bonjour ! Je m'appelle Quentin Guillemin, et je suis développeur web Full Stack
 
 * Bootstrap
 * Sass
-
 * WordPress
 * Drupal
 
@@ -32,17 +31,18 @@ Bonjour ! Je m'appelle Quentin Guillemin, et je suis développeur web Full Stack
 
 ## Expérience professionnelle :briefcase:
 
-__Entreprise :__ Tereo
+__Entreprise :__ Tereo  
 __Période :__ Avril 2024 - Juin 2024
 * Stage de fin de formation en Développement web Full Stack
 * Création d'une interface de recherche cartographique
 
 ## Formation :mortar_board:
 
-* __Diplôme :__ Développeur web Full Stack
-* __Établissement :__ Greta de Vannes
-* __Année d'obtention :__ 2024
+__Diplôme :__ Développeur web Full Stack  
+__Établissement :__ Greta de Vannes  
+__Année d'obtention :__ 2024
 
 ## Me Contacter :speech_balloon:
 
 * __Email :__ quentin-guillemin@orange.fr
+* __LinkedIn :__ [Quentin Guillemin](https://www.linkedin.com/in/quentin-guillemin-aba1772b2/)
